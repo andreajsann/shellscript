@@ -1,7 +1,11 @@
 #!/bin/bash
 clear;
-echo "Hello World";
+echo "hello world";
 exit;
+
+
+
+
 
 
 
